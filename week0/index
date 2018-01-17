@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang=nl>
+
+<head>
+    <title>Zaher Qasqas CV</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <div class="all">
+        <h1 class="head">CURRICULUM VITAE</h1>
+        <h1 class="head">Zaher Qasqas</h1>
+        <img src="https://i.pinimg.com/564x/05/54/c5/0554c55f6368aca89b3bf20d66b28ffa.jpg" alt="photo">
+        <p class="adress">
+            Adres:E. de Bruynstraat 90A /1411 TD Naarden<br> Telefoon: 06 – 34 47 94 87<br> E-mail: qasqaszaher@gmail.com<br> Geboren: 6 augustus 1981<br> Rijbewijs: B<br>
+        </p>
+    </div>
+        <p class="profile">
+            Ik ben een vriendelijke man die in Nederland graag opnieuw een loopbaan wil opbouwen in de ICT, aansluitend bij mijn opleiding en werkervaring.<br> Ik wil mij graag verder ontwikkelen in de ICT en verdere vakopleidingen volgen.Ik ben enthousiast, leer snel en werk graag in een team.<br> Tegelijk kan ik ook zelfstandig werken en heb ik doorzettingsvermogen. Mijn gedachten gaan uit naar werk in het System-administrator onderhoud van computers en netwerken of werk als programma installateur.
+        </p>
+    
+
+        <h2 class="heads">Werkervaring</h2>
+        
+  <h3>Vluchtelingenwerk Nederland, Versa Thuisadministratie</h3>
+  <p>
+            <em>Tolk, administratie hulp, Computeronderhoud</em><br> Juli 2017- heden<br> Tolken voor cliënten. Helpen en adviseren bij procedures en formulieren.<br> Technische problemen met computers oplossen.<br>
+        </p>
+  <h3>Stichting Nieuw in ‘t Gooi te Bussum</h3>
+        <p>
+            <em>Medewerker computers en IT</em><br> oktober 2015- december 2016 <br> Computeronderhoud (mensen die een computer hebben die ze niet meer willen,<br> brengen hun computers. Ik repareer ze en geef ze aan andere mensen).<br>
+        </p>
+  <h3>Concise (Zelfstandig ondernemer met eigen Kantoor, Bahsa -Damascus)</h3>
+        <p>
+            <em>ICT-management en -consultancy</em><br> 2012- 2014<br> Klanten bezoeken en adviseren, planningen maken, plannen uitwerken,<br> medewerkers aansturen en problemen oplossen. Voor meer werkzaamheden en ervaringen,<br> zie laatste pagina cv. <br>
+        </p>
+  <h3>IT City winkel (Partnerschap, Bahsa – Damascus)</h3>
+        <p>
+            <em>Manager en consultant</em><br> 2010- 2012<br> Kopen en bestellen van goederen, prijsbeleid bepalen, medewerkers aansturen<br>(dagplan en weekplan maken), taken en functies voor medewerkers uitwerken,<br> problemen van klanten oplossen. Voor meer werkzaamheden en ervaringen,<br> zie laatste pagina cv.<br>
+        </p>
+  <h3>Khoury Medical (Altajhez – Damascus)</h3>
+        <p>
+            <em>System administrator</em><br> 2007 – 2014 <br> Windows implementatie 2003, onder andere:<br> Active Directory.<br> Gebruikersaccounts, machtigingen en beleid.<br> Exchange Server implementatie en beheer 2003.<br> SQL Server-implementatie en -beheer 2005.<br> Fileserver-implementatie en -beheer.<br> Faxserver-implementatie en -beheer.<br> Printserver-implementatie en -beheer.<br> Data Backup en Restore.<br> Voor meer werkzaamheden en ervaringen, zie laatste pagina cv.<br>
+        </p>
+  <h3>Microtech Showroom (Bahsa – Damascus)</h3>
+        <p>
+            <em>Verkoopleider, IT-specialist, installateur</em><br> 2004- 2010 <br> Verkoopadvisering, sales en computeronderhoud . <br>Voor meer werkzaamheden en ervaringen, zie laatste pagina cv.<br>
+        </p>
+  <h3>Microtech kantoor</h3>
+        <p>
+            <em>IT-specialist, installateur</em><br> 2000- 2002<br> Computeronderhoud (in het kantoor, bij klanten thuis of in bedrijven en fabrieken),<br> installeren van programma’s<br>
+        </p>
+  <h3>Elektronica Station (Alhejaz – Damascus)</h3>
+        <p>
+           <em>Reparatie Electronics</em><br> 1998
+            <br>
+            Reparatie van elektronica en klanten adviseren over onderhoud.<br>
+        </p>
+
+        <h2 class="heads">
+            Opleidingen
+        </h2>
+        <p>
+            Heden:Cursus Exam 98-365: Windows Server Administration Fundamentals and <br> Microsoft Technology Associate (MTA) Windows server 2008- 2012.<br> -Office 365 ProPlus Deployment for IT Pros.<br> - Microsoft PowerShell.<br>
+        </p>
+        <p>2011: Studie Bachelor-diploma ICT aan de universiteit van Damascus.</p>
+        <p>2010: Vervolgopleidingen betreffende computer-hardware en -software,<br> bekabeling en MCITP (Microsoft Certified IT Professional) bij het SBS instituut.<br></p>
+        <p>2007: Implementing, and Maintaining a Microsoft Windows Server 2003 Infrastructure<br> Network Services bij het SBS instituut.</p>
+        <p>2006: Implementing Microsoft Internet Security and Acceleration Server 2004, <br> Planning, Implementing, and Maintaining a Microsoft Windows Server 2003 Active Directory Infrastructure,<br> Implementing and Managing Microsoft Exchange Server 2003 bij het SBS instituut.</p>
+        <p>2005: CompTIA Network+, 2272 Implementing and Supporting Microsoft Windows XP Professional,<br> Advanced Windows Technical Support bij het SBS instituut.</p>
+        <h2>Talenkennis</h2>
+        <p>Arabisch (Moedertaal)<br> Engels (Goed)<br> Nederlands (Staatsexamen).</p>
+        <h2>Belangstellingen / Hobby’s</h2>
+        <p>Hardlopen, fietsen, basketballen, wandelen, lezen.</p>
+       <h3>Tijdens mijn werkzaamheden bij mijn diverse werkgevers heb ik ruime ervaring opgedaan met:</h3>
+        <ul>
+            <li>Gewerkt met  Serverkasten en Patchkasten (patchpanelen, keystones, kabelmanagement, stekkerdozen, KVM consoles, ethernet switches, ventilatorset). </li>
+            <li>Patchen van kabels voor internet en telefoon.</li>
+            <li>Computers imagen, of Win PE imagen via Microsoft.</li>
+            <li>Onderhoud en configuratie van IP camera's.</li>
+            <li>Het maken van back-ups.</li>
+            <li>Uitvoeren van softwaremigraties.</li>
+            <li>Printers toevoegen op het netwerk (USB, Wifi, Lan).</li>
+            <li>De beveiliging van het netwerk.</li>
+            <li>Het toevoegen/wijzigen/verwijderen van gebruikersinformatie en wachtwoorden.</li>
+            <li>Gebruikers toevoegen/verwijderen van het netwerk.</li>
+            <li>Het geven van Toegangsrechten in mappen aan gebruikers in het netwerk. </li>
+            <li>Laptop 's en computers schoonmaken en vernieuwen met een nieuwe image.</li>
+            <li> Oplossen van problemen met;
+          
+              <ul>
+               <li> Wifi   </li>
+               <li> Internet en e-mail.</li>
+               <li>Hardware en software met OS en MS office.</li>
+               <li>Windows update.</li>
+               <li> Netwerk op de lokale computer en in de virtuele omgeving.</li>
+           </ul>
+            </li>
+          
+            <li>Remote access software problemen oplossen van klanten.</li>
+            <li>Het beantwoorden van technische vragen.</li>
+            <li>Problemen oplossen in TCP/IP en WLAN.</li>
+            <li>Verkopen van losse onderdelen, zoals geheugen, harde schijf, toetsenbord etc. aan klanten. </li>
+            <li>Adviseren bij aanschaf van nieuwe werkpleksystemen en deze installeren/koppelen aan het netwerk.</li>
+            <li>Inwerken en coachen van nieuwe medewerkers. </li>
+            <li>Installeren van
+            <ul>
+            <li>Windows 95, 98, XP, me, Vista, 7, 8. 10</li>
+            <li>Servers (MS Win. Server 2003, 2008, 2012)</li>
+            <li>Diverse toepassingen en interne applicaties.</li>
+            <li>Exchange 2007 / 2010</li>
+            </ul>
+            </li>
+             
+            <li>Gewerkt met TCP/IP, Pop3, SMTP, DHCP, DNS.</li>
+            <li>Gewerkt met Active Directory: Users toevoegen en verwijderen. Group policy veranderen.</li>
+            <li>Gewerkt met routers o.a. Linksys, D-link, TP-Link, D-link, 3Com, Cisco en Ubiquity</li>
+        </ul>
+  </html>
+    
