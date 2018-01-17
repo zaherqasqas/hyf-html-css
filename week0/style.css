@@ -1,0 +1,96 @@
+.container {
+  width: auto;
+  margin: auto;
+  border: 5px solid rgb(0,0,0);
+  overflow: auto;
+}
+#2 {
+  float: right;
+  
+}
+h1 {
+  background-color:black;
+  color:red;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 40px;
+  padding: 20px;
+}
+#ad {
+
+}
+#rightphoto {
+  position: absolute;
+  left: 79%;
+  top: 40px;
+  z-index: 1;
+    width:225px;
+}
+#bottomphoto {
+  position: relative;
+  left: 80%;
+  bottom: 120px;
+  z-index: 1;
+}
+a:link {
+  color: green;
+}
+a:visited {
+  color: green;
+}
+a:hover { 
+  background-color: white;
+}  
+a:active {
+  background-color: red;
+} 
+a:focus {
+  background-color: green;
+} 
+#between2movies {
+  margin: 10px 60px 10px 60px;
+  border: 10px ridge green;
+  border-radius: 15px;
+  padding: 0px;
+  width: 200px;
+  float: left;
+}
+#movies-name {
+  margin: 20px 0px 0px 10px;
+  font-size: 30px;
+  color: red;
+}
+#movies-info-left {
+  margin: 0px 20px 10px 10px;
+  float: left;
+}
+#movies-info-right {
+  margin: 0px 20px 10px 10px;
+  float: left;
+}
+#box-info-left {
+  margin: 30px 4px 4px 4px;
+  float: left;
+  color: white;
+  background-color: black;
+  width: 48%;
+  height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+#box-info-right {
+  margin: 30px 10px 20px 4px;
+  float: right;
+  color: white;
+  background-color: black;
+  width: 48%;
+  height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+#last-link  {
+  font-family: fantasy;
+  background-color: rgb(232, 232, 232);
+  padding: 10px;
+
+}
