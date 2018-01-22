@@ -1,0 +1,118 @@
+Zaher@DESKTOP-OCRRDJF MINGW64 /
+$ pwd
+/
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /
+$ cd c
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c
+$ cd users
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users
+$ cd zaher
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher
+$ pwd
+/c/users/zaher
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher
+$ mkdir blank
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher
+$ touch greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher
+$ echo hello >greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher
+$ echo hello >>greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher
+$ echo hello >>greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher
+$ echo hello >>greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher
+$ echo hello >>greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher
+$ cat greetings.txt
+hello
+hello
+hello
+hello
+hello
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher
+$ cd blank
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ touch greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ echo hello > greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ echo hello >> greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ echo hello >> greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ echo hello >> greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ echo hello >> greetings.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ cat greetings.txt
+hello
+hello
+hello
+hello
+hello
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ cp greetings.txt 1.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ cp greetings.txt 2.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ cp greetings.txt 3.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ cp greetings.txt 4.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ cp greetings.txt 5.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ echo cat > pets.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ echo dog >> pets.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ echo hamster >> pets.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ echo cat > command.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ echo ls >> command.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ echo pwd >> command.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ cat command.txt pets.txt | sort | uniq -u > lovelycommand.txt
+
+Zaher@DESKTOP-OCRRDJF MINGW64 /c/users/zaher/blank
+$ cat lovelycommand.txt
+dog
+hamster
+ls
+pwd
+
