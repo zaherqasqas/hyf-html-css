@@ -1,0 +1,620 @@
+@media only screen and (min-width:0px) and (max-width:360px) {
+    body {
+        font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .logomsc {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: 100px;
+        line-height: 2em;
+    }
+    .logomsb {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: 100px;
+        line-height: 2em;
+
+    }
+    .nav-bar1 {
+        position: relative;
+        list-style: none;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 6);
+        margin: 10px 10px 10px 10px;
+        text-align: center;
+        font-size: 10px;
+    }
+    .nav-bar2 {
+        position: relative;
+        list-style: none;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 6);
+        margin: 10px 10px 10px 10px;
+        text-align: center;
+        font-size: 10px;
+    }
+    #nav-bar1:nth-child(n+1) {
+        width: 100%;
+    }
+    #nav-bar2:nth-child(n+1) {
+        width: 100%;
+    }
+
+    .main-photo1 {
+        width: 100%;
+    }
+    .blue-bar {
+        background-color: #0078d7;
+        float: left;
+        width: 100%;
+        height: 15px;
+        margin: 10px 0px 10px 0px;
+
+        text-align: center;
+        color: white;
+        font-size: 10px;
+    }
+
+    h1 {
+        font-size: 15px;
+        font-weight: 200;
+        text-align: center;
+    }
+    h2 {
+        font-size: 10px;
+        font-weight: 100;
+        text-align: center;
+    }
+    .aftermainphoto1 {
+        font-size: 10px;
+        font-weight: 200;
+        text-align: center;
+        margin-bottom: 2px
+    }
+    .gray-line {
+        border-top: 1px solid #DCDCDC;
+    }
+
+    #photo-with-info {
+        list-style: none;
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .photo-with-info {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 1);
+        font-size: 10px;
+    }
+    .pic {
+        width: 150px;
+    }
+    .bluelink {
+        color: #0078d7;
+        font-size: 8px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+
+    .main-photo2 {
+        width: 100%;
+    }
+    #linksonderphoto2 {
+        list-style: none;
+        padding-left: 0px;
+    }
+    .linksonderphoto2 {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 1);
+        font-size: 10px;
+        text-align: center;
+        line-height: 2em;
+    }
+    #goods-with-info {
+        list-style: none;
+        padding-left: 0px;
+        
+    }
+    .goods-with-info {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 1);
+        font-size: 20px;
+        text-align: center;
+    }
+    .goods {
+        width: 150px;
+    }
+    #logo {
+        list-style: none;
+        padding-left: 0px;
+    }
+    .logo {
+        width: 75px;
+        height: 250px;
+        
+
+    }
+    .logowithlink {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 1);
+        
+        text-align: center;
+        margin-top: 20px;
+        border-top: 1px solid #DCDCDC;
+        
+    }
+    footer {
+        background-color: lightgray;
+    }
+    #down-list {
+        background-color: #DCDCDC;
+    }
+    .down-list {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 1);
+        font-size: 7px;
+        text-align: center;
+        list-style: none;
+        padding-left: 0px;
+    }
+    .head-list {
+        font-size: 8px;
+        font-weight: bold;
+    }
+    #down-bar {
+        list-style: none;
+        padding-left: 0px;
+    }
+    .down-bar:nth-child(-n+1) {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: 30%;
+        font-size: 5px;
+        text-align: center;
+    }
+    .down-bar:nth-child(n+2) {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(70% / 2);
+        font-size: 4px;
+        text-align: center;
+    }
+}
+
+
+
+/* Tab */
+@media only screen and (min-width:361px) and (max-width:768px) {
+    body {
+        font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .logomsc {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: 100px;
+        line-height: 2em;
+        clear: both;
+        margin-top: 7px;
+    }
+    .logomsb {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: 100px;
+        line-height: 2em;
+        clear: both;
+        margin-top: 7px;
+
+    }
+    .nav-bar1 {
+        position: relative;
+        list-style: none;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 5);
+        margin: 10px 10px 10px 10px;
+        text-align: center;
+        font-size: 15px;
+    }
+    .nav-bar2 {
+        position: relative;
+        list-style: none;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 4);
+        margin: 10px 10px 10px 10px;
+        text-align: center;
+        font-size: 15px;
+    }
+    #nav-bar1:nth-child(n+1) {
+        width: 100%;
+    }
+    #nav-bar2:nth-child(n+1) {
+        width: 100%;
+    }
+
+    .main-photo1 {
+        width: 100%;
+    }
+    .blue-bar {
+        background-color: #0078d7;
+        float: left;
+        width: 100%;
+        height: 15px;
+        margin: 10px 0px 10px 0px;
+
+        text-align: center;
+        color: white;
+        font-size: 10px;
+    }
+
+    h1 {
+        font-size: 25px;
+        font-weight: 200;
+        text-align: center;
+    }
+    h2 {
+        font-size: 20px;
+        font-weight: 100;
+        text-align: center;
+    }
+    .aftermainphoto1 {
+        font-size: 20px;
+        font-weight: 200;
+        text-align: center;
+        margin-bottom: 2px
+    }
+    .gray-line {
+        border-top: 1px solid #DCDCDC;
+    }
+
+    #photo-with-info {
+        list-style: none;
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .photo-with-info {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 2);
+        font-size: 10px;
+    }
+    .pic {
+        width: 150px;
+    }
+    .bluelink {
+        color: #0078d7;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+
+    .main-photo2 {
+        width: 100%;
+    }
+    #linksonderphoto2 {
+        list-style: none;
+        padding-left: 0px;
+    }
+    .linksonderphoto2 {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 1);
+        font-size: 20px;
+        text-align: center;
+        line-height: 2em;
+    }
+    #goods-with-info {
+        list-style: none;
+        padding-left: 0px;
+        
+    }
+    .goods-with-info {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 2);
+        font-size: 20px;
+        text-align: center;
+    }
+    .goods {
+        width: 150px;
+    }
+    #logo {
+        list-style: none;
+        padding-left: 0px;
+    }
+    .logo {
+        width: 75px;
+        
+
+    }
+    .logowithlink {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 2);
+        text-align: center;
+        margin-top: 20px;
+        border-top: 1px solid #DCDCDC;
+    }
+    footer {
+        background-color: lightgray;
+    }
+    #down-list {
+        background-color: #DCDCDC;
+        
+    }
+    .down-list {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 2);
+        font-size: 17px;
+        text-align: center;
+        list-style: none;
+        padding-left: 0px;
+        vertical-align: top;
+    }
+    .head-list {
+        font-size: 8px;
+        font-weight: bold;
+    }
+    #down-bar {
+        list-style: none;
+        padding-left: 0px;
+    }
+    .down-bar:nth-child(-n+1) {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: 30%;
+        font-size: 15px;
+        text-align: center;
+    }
+    .down-bar:nth-child(n+2) {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(70% / 6);
+        font-size: 14px;
+        text-align: center;
+    }
+}
+
+/* LAPTOP */
+@media only screen and (min-width:769px) {
+    body {
+        font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .logomsc {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: 100px;
+        line-height: 2em;
+        clear: both;
+        margin-top: 7px;
+    }
+    .logomsb {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: 100px;
+        line-height: 2em;
+        clear: both;
+        margin-top: 7px;
+
+    }
+    .nav-bar1 {
+        position: relative;
+        list-style: none;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 9);
+        margin: 10px 10px 10px 10px;
+        text-align: center;
+        font-size:15px;
+    }
+    .nav-bar2 {
+        position: relative;
+        list-style: none;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 8);
+        margin: 10px 10px 10px 10px;
+        text-align: center;
+        font-size: 15px;
+    }
+    #nav-bar1:nth-child(n+1) {
+        width: 100%;
+    }
+    #nav-bar2:nth-child(n+1) {
+        width: 100%;
+    }
+
+    .main-photo1 {
+        width: 100%;
+    }
+    .blue-bar {
+        
+        background-color: #0078d7;
+        float: left;
+        width: 100%;
+        height: 20px;
+        margin: 10px 0px 10px 0px;
+        text-align: center;
+        color: black;
+        font-size: 15px;
+
+    }
+
+    h1 {
+        font-size: 25px;
+        font-weight: 200;
+        text-align: center;
+    }
+    h2 {
+        font-size: 20px;
+        font-weight: 100;
+        text-align: center;
+    }
+    
+    .aftermainphoto1 {
+        font-size: 20px;
+        font-weight: 200;
+        text-align: center;
+        margin-bottom: 2px
+    }
+    .gray-line {
+        border-top: 1px solid #DCDCDC;
+    }
+
+    #photo-with-info {
+        list-style: none;
+        padding-left: 0px;
+        text-align: center;    
+    }
+
+    .photo-with-info {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 4);
+        
+        font-size: 15px;
+             
+    }
+    .pic {
+        width: 200px;
+    }
+    .bluelink {
+        color: #0078d7;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+
+    .main-photo2 {
+        width: 100%;
+    }
+    #linksonderphoto2 {
+        list-style: none;
+        padding-left: 0px;    
+    }
+    .linksonderphoto2 {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 3);
+        font-size: 20px;
+        text-align: center;
+        line-height: 2em;
+    }
+    #goods-with-info {
+        list-style: none;
+        padding-left: 0px;
+        
+    }
+    .goods-with-info {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 4);
+        height: 250px;
+        font-size: 10px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .goods {
+        width: 150px;
+    }
+    #logo {
+        list-style: none;
+        padding-left: 0px;
+    }
+    .logo {
+        width: 75px;
+        
+
+    }
+    .logowithlink {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 4);
+        height: 200px;
+        text-align: center;
+        margin-top: 20px;
+        border-top: 1px solid #DCDCDC;
+    }
+    footer {
+        background-color: lightgray;
+    }
+    #down-list {
+        background-color: #DCDCDC;
+    }
+    .down-list {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(100% / 3);
+        height: 250px;
+        font-size: 17px;
+        text-align: center;
+        list-style: none;
+        padding-left: 0px;
+        vertical-align: top;
+        vertical-align: text-top;
+        vertical-align: top;
+    }
+    .head-list {
+        font-size: 18px;
+        font-weight: bold;
+    }
+    #down-bar {
+        list-style: none;
+        padding-left: 0px;
+    }
+    .down-bar:nth-child(-n+1) {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: 30%;
+        font-size: 15px;
+        text-align: center;
+    }
+    .down-bar:nth-child(n+2) {
+        position: relative;
+        display: inline-block;
+        float: left;
+        width: calc(70% / 6);
+        font-size: 14px;
+        text-align: center;
+        
+    }
+}
+
